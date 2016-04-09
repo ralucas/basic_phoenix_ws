@@ -1,0 +1,14 @@
+<div class="jumbotron">
+  <h2><%= gettext "Welcome to %{name}", name: "Test app" %></h2>
+  <p class="lead">This is a test app built in Phoenix framework (Elixir) for class testing, stress testing, etc.</p>
+</div>
+
+<div class="row">
+  <div class="col-lg-6">
+    <h4>Hey</h4>
+  </div>
+
+  <div class="col-lg-6">
+    <h4>There</h4>
+  </div>
+</div>
